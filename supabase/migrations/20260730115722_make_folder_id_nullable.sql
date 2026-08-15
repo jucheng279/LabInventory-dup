@@ -1,0 +1,1 @@
+ALTER TABLE inventory_items ALTER COLUMN folder_id DROP NOT NULL;

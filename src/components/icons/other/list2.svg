@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <path d="M26,3H6A3,3,0,0,0,3,6V26a3,3,0,0,0,3,3H26a3,3,0,0,0,3-3V6A3,3,0,0,0,26,3Zm1,23a1,1,0,0,1-1,1H6a1,1,0,0,1-1-1V6A1,1,0,0,1,6,5H26a1,1,0,0,1,1,1Z" fill="currentColor"></path>
+  <rect width="4" height="4" x="7" y="14" rx="1" fill="currentColor"></rect>
+  <rect width="4" height="4" x="7" y="20" rx="1" fill="currentColor"></rect>
+  <rect width="4" height="4" x="7" y="8" rx="1" fill="currentColor"></rect>
+  <path d="M24 15H14a1 1 0 0 0 0 2H24a1 1 0 0 0 0-2zM24 21H14a1 1 0 0 0 0 2H24a1 1 0 0 0 0-2zM24 9H14a1 1 0 0 0 0 2H24a1 1 0 0 0 0-2z" fill="currentColor"></path>
+</svg>

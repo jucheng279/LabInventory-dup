@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 512 512" viewBox="0 0 512 512" id="Phage">
+  <polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="15" points="163.671 68.168 163.671 205.273 255.953 258.552 348.234 205.273 348.234 68.168 255.953 14.889" class="colorStroke474747 svgStroke"></polygon>
+  <polyline fill="none" stroke="#474747" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="15" points="238.555 286.55 238.555 451.454 145.566 413.915 89.257 494.623"></polyline>
+  <polyline fill="none" stroke="#474747" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="15" points="47.026 428.93 144.627 359.483 211.259 407.345"></polyline>
+  <polyline fill="none" stroke="#474747" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="15" points="274.945 286.55 274.945 451.454 367.934 413.915 424.243 494.623"></polyline>
+  <polyline fill="none" stroke="#474747" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="15" points="466.474 428.93 368.873 359.483 302.241 407.345"></polyline>
+  <line x1="255.953" x2="255.953" y1="14.889" y2="223.775" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="15" class="colorStroke474747 svgStroke"></line>
+  <polyline fill="none" stroke="#474747" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="15" points="196.946 81.187 255.953 97 318.423 81.187"></polyline>
+  <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="15" d="
+		M238.555,451.454L238.555,451.454c11.16,4.871,23.808,5.057,35.107,0.516l1.284-0.516" class="colorStroke474747 svgStroke"></path>
+</svg>
